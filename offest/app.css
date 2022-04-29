@@ -1,0 +1,14 @@
+.boxed{
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: 5px solid;
+}
+
+.buttons{
+    padding: 20px;
+    background-color: yellow;
+    color: white;
+    border: 0;
+    margin: 50px auto;
+}

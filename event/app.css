@@ -1,0 +1,19 @@
+.button{
+    padding: 20px;
+    background-color: rgb(73, 73, 16);
+    color: white;
+    border: 0;
+    margin: 50px auto;
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace
+}
+.change {
+    display: block;
+    padding: 15px 40px;
+    border-radius: 10px;
+    border: 0;
+    color: white;
+    font: 1em sans-serif;
+    margin: 50px auto;
+    background-color: #3d6ef7;
+}

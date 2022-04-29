@@ -1,0 +1,1 @@
+const dropdowSelect = document.querySelector('.dropdown__selected');
